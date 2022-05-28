@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Inter:wght@300;400;500;600;700&family=Pacifico&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  font-family: 'Inter', sans-serif;
+}
+
+.activeUserChoice {
+  background-color: #dac000;
+  border: 1px solid white;
+  cursor: default !important;
+}
